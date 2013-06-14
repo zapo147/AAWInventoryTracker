@@ -11,3 +11,5 @@ class Extract:
 		x = Extract("urine", 7.0)
 		print x.name
 		print x.concentration
+
+## fuck		
